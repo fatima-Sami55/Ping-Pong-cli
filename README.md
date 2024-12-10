@@ -104,4 +104,4 @@ In addition to the code, this project includes detailed documentation covering:
 ---
 
 ### 🎮 Play Now!
-[Click here to watch the gameplay video and see the game in action!](#)
+[Click here to watch the gameplay video and see the game in action!](https://go.screenpal.com/watch/cZl6YdnnwPe)
